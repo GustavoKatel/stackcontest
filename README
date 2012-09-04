@@ -1,3 +1,6 @@
 Usage:
 ** Run the start.py script.
-** to reload the serialized featureset object file, just delete it.
+** To reload the serialized featureset object file, just delete it. It will generate a new version automatically.
+** To remove the limit of the train set MAX_LOADED_LINES=0 in start.py
+
+Using Python NLTK
