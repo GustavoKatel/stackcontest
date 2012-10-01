@@ -1,7 +1,5 @@
 package com.stackcontest;
 
-import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -15,16 +13,12 @@ import java.util.List;
 
 import com.csvreader.CsvReader;
 
-import edu.stanford.nlp.classify.Classifier;
 import edu.stanford.nlp.classify.LinearClassifier;
 import edu.stanford.nlp.classify.LinearClassifierFactory;
 import edu.stanford.nlp.io.EncodingPrintWriter.out;
 import edu.stanford.nlp.ling.BasicDatum;
 import edu.stanford.nlp.ling.Datum;
-import edu.stanford.nlp.ling.Featurizable;
-import edu.stanford.nlp.ling.HasWord;
 import edu.stanford.nlp.ling.Word;
-import edu.stanford.nlp.process.DocumentPreprocessor;
 import edu.stanford.nlp.process.PTBTokenizer;
 import edu.stanford.nlp.stats.Counter;
 import edu.stanford.nlp.util.ErasureUtils;
