@@ -8,4 +8,4 @@ Libraries used, you need to add the .jars in the classpath.
 
 TODO:
 
-** Deserialize exception.
+** Fix deserialize exception.

@@ -3,3 +3,4 @@
 *.csv
 *.featureset
 *.7z
+stanford-classifier/stackcontest_data/classifier
