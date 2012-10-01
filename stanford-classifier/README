@@ -1,0 +1,11 @@
+Libraries used, you need to add the .jars in the classpath.
+
+** JavaCsv (http://sourceforge.net/projects/javacsv/)
+
+** Stanford-Classfier (http://nlp.stanford.edu/software/classifier.shtml)
+
+** Stanford-POS-Tagger (http://nlp.stanford.edu/software/tagger.shtml)
+
+TODO:
+
+** Deserialize exception.
